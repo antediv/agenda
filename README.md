@@ -1,13 +1,7 @@
 # SISTEMA AGENDA DE CONTACTOS
-# Proyecto parcial
-## Integrantes:
 
-Alison Zuleika Cruz Montes
+## Proyecto parcial
 
-Jose Adrian Lozano Maciel
+### Integrantes:
 
-Brayam Viggers Garcia
-
-
-
-
+#### Edgar Antonio Mendoza
